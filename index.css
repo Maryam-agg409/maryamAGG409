@@ -1,0 +1,8 @@
+body {
+font-family:New Times Roman;
+background-color:#F4A460; width:90%; margin:0 auto;} 
+h1 {font-family:Lucida Calligraphy;}
+p {font-family: Lucida Handwriting;}  
+#nav, #intro, #content, #footer { margin: 1%;}
+#nav, #footer {background-colour: #FFFFFF; padding: 0.5em 0;}
+img {max-width: 100%; height: auto;}
